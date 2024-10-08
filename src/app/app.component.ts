@@ -22,5 +22,6 @@ import { NgxCurrencyDirective, provideEnvironmentNgxCurrency } from 'ngx-currenc
 export class AppComponent {
   public amount: string = '';
   public textInput: string = '';
+  public textInputTwo: string = '';
 
 }
